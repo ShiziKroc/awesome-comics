@@ -56,12 +56,6 @@
     <link href="css/nav2.css" rel="stylesheet">
 	<link href="custom.css" rel="stylesheet">
 	<link rel="shortcut icon" href="IMG/favicon.ico" type="image/x-icon">
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
   </head>
   <body style="background: #333;">
   			<div class="navbar navbar-inverse navbar-static-top">
