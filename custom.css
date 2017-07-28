@@ -43,14 +43,13 @@
 }
 td 
 {
-    padding: 10px; /* Поля в ячейках */ 
+    padding: 10px;
 }
 
 html,
 body {
   height: 100%;
   min-height: 100%
-  /* html и body  элементы не могут иметь padding или margin. */
   -webkit-font-smoothing: antialiased;
   font: normal 14px arial,sans-serif;
 }
@@ -112,9 +111,7 @@ body {
   min-height: 100%;
   height: auto !important;
   height: 100%;
-  /* oтрицательный отступ footer на его высоту */
   margin: 0 auto -60px;
-  /* Pad нижний по высоте footer */
   padding: 0 0 60px;
 }
 #footer {
