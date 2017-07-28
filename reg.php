@@ -13,7 +13,7 @@
 		$foto = 'i/'.$_FILES['uploadfile']['name'];
 		
 		
-		//если логин и пароль введены, то обрабатываем их, чтобы теги и скрипты не работали, мало ли что люди могут ввести 
+		//если логин и пароль введены, то обрабатываем их
 		$login = stripslashes($login); 
 		$login = htmlspecialchars($login); 
 		$pass = stripslashes($pass); 
