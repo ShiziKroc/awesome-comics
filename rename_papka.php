@@ -83,8 +83,6 @@
 				$row2 = mysql_fetch_assoc($sql2);
 				unlink($row2['Cover']);
 				
-				
-				
 				$NA = $_POST['DIRS_C'];
 				$CO = $path."/$name";
 					
@@ -115,7 +113,6 @@
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/nav2.css" rel="stylesheet">
 		<link href="custom.css" rel="stylesheet">
-		<link href="styles.css" type="text/css" rel="stylesheet">
 		<link rel="shortcut icon" href="IMG/favicon.ico" type="image/x-icon">
     </head>
 
