@@ -30,7 +30,6 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/nav2.css" rel="stylesheet">
 	<link href="custom.css" rel="stylesheet">
-	<link href="styles.css" type="text/css" rel="stylesheet">
 	<link rel="shortcut icon" href="IMG/favicon.ico" type="image/x-icon">	
   </head>
   
